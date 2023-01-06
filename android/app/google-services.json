@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475636853892",
+    "project_id": "loginui-20a17",
+    "storage_bucket": "loginui-20a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475636853892:android:1e06c44957cd969756e6d1",
+        "android_client_info": {
+          "package_name": "com.example.login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475636853892-2bvjth1opkl37k0ennclupblsl8moltf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5p3ZPGmevBS0j_K_Ixkhm8xlTBvQBik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475636853892-2bvjth1opkl37k0ennclupblsl8moltf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
